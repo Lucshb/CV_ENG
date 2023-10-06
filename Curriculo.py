@@ -298,17 +298,17 @@ with col2:
 
 
 PROJECTS_PY = {
-"📈 Análise de Equipe de Vendas": "https://sales-project.onrender.com",
-"📈 Análise dos preços de gasolina": "https://gaspriceapp.onrender.com",
-"📈 Análise Simples de receita da empresa": "https://projeto-dashvendas-python.streamlit.app",
-"📈 Análise de Dados da Fifa": "https://fifaproject.streamlit.app"
+"📈 Sales Team Analysis": "https://sales-project.onrender.com",
+"📈 Gasoline Price Analysis": "https://gaspriceapp.onrender.com",
+"📈 Simple Company Revenue Analysis": "https://projeto-dashvendas-python.streamlit.app",
+"📈 FIFA Data Analysis": "https://fifaproject.streamlit.app"
 }
 
 
 PROJECTS_BI = {
-"📈 Dashboard Simples de Faturamento (Google Looker/Data Studio)": "https://lookerstudio.google.com/reporting/3959707c-c28d-4946-b667-d1567753ebc0",
-"📈 Dashboard Simples de Perfomance de Campanha (Google Looker/Data Studio)": "https://lookerstudio.google.com/reporting/4157f723-d529-49c9-9baa-732865224df2",
-"📈 Dashboard de Vendas (Power BI) ": "https://app.powerbi.com/view?r=eyJrIjoiYzQ5YTgzYWMtYjJkZi00N2U3LWIwNTYtNGYwOWI4NzIxYWY1IiwidCI6ImNjMmE5NWVhLTMzNWMtNDQzYi04NDQzLWU5YWQzM2ZmOWUwNCJ9 "
+"📈 Simple Billing Dashboard (Google Looker/Data Studio)": "https://lookerstudio.google.com/reporting/3959707c-c28d-4946-b667-d1567753ebc0",
+"📈 Simple Campaign Performance Dashboard (Google Looker/Data Studio)": "https://lookerstudio.google.com/reporting/4157f723-d529-49c9-9baa-732865224df2",
+"📈 HR Dashboard (Power BI) ": "https://app.powerbi.com/view?r=eyJrIjoiYzQ5YTgzYWMtYjJkZi00N2U3LWIwNTYtNGYwOWI4NzIxYWY1IiwidCI6ImNjMmE5NWVhLTMzNWMtNDQzYi04NDQzLWU5YWQzM2ZmOWUwNCJ9 "
 }
 
 st.write('\n')
